@@ -44,7 +44,7 @@
     // =========================================================================
     // ⚙️ CONFIGURACIÓN DE AZURE (Los alumnos deben completar estos campos)
     // =========================================================================
-    const STORAGE_ACCOUNT_NAME = "TU_STORAGE_ACCOUNT_NAME";
+    const STORAGE_ACCOUNT_NAME = "storageespacial";
     const CONTAINER_NAME = "astronautas";
     // Generar un SAS Token en el portal de Azure para el contenedor con permiso de Escritura (Create/Write)
     const SAS_TOKEN = "OI6/+2KlrnLIfRPrTQBWJsfH7vBJ4OPOpLWtDqiHpRuk/HwXPv62KGP6dt32R9vGXpQnNsZPFAvc+ASthyclkQ=="; 
